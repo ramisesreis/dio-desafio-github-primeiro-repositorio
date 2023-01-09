@@ -1,0 +1,5 @@
+Link para download do GIT
+
+https://git-scm.com/download/win
+
+git bash é um terminal
